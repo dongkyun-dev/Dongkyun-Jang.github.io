@@ -46,7 +46,10 @@
 *::after {
   box-sizing: border-box;
 }
-
+*{
+  background-color: black;
+  color: white;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
